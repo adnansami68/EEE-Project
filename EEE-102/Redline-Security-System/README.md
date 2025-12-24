@@ -56,7 +56,7 @@ Unauthorized access is a major concern for homes, offices, and sensitive industr
 
 *(Replace the link below with your actual image path)*
 
-![Circuit Diagram](./circuit_diagram.png)
+![Circuit Diagram]([./circuit_diagram.png](https://github.com/adnansami68/EEE-Project/blob/085c1f6e2a5156b53d919cbba57979b2d34fb2ab/EEE-102/Redline-Security-System/Screenshot%202025-12-24%20183659.png))
 
 > **Note:** The circuit aligns the laser source directly with the LDR. The 10kΩ resistor acts as a base resistor to control the transistor's switching state.
 
